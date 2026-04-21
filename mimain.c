@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("SALUDANDO DESDE LA RAMA DE ALUMNOS");
+    printf("ESTO ES UNA MODIFICACION EN EL PASADO\n");
     return 0;
 }
