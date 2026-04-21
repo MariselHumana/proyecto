@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("ESTO ES UNA MODIFICACION EN EL PASADO\n");
+    printf("ESTA ES UNA PRUEBA...");
     return 0;
 }
