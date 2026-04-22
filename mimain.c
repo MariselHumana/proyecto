@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("ESTOY EN MAIN");
+    printf("ESTA ES UNA CORRECCION: ");
     return 0;
 }
