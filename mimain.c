@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("HOLA GIT!, ESTAMOS PROBANDO");
+    printf("ESTOY EN MAIN");
     return 0;
 }
